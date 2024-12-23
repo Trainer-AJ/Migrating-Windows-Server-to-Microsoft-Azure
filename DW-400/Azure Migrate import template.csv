@@ -1,0 +1,41 @@
+﻿*Server name,IP addresses,*Cores,*Memory (In MB),*OS name,OS version,OS architecture,Server type,Hypervisor,CPU utilization percentage,Memory utilization percentage,Network adapters,Network In throughput,Network Out throughput,Boot type,Number of disks,Storage in use (In GB),Disk 1 size (In GB),Disk 1 read throughput (MB per second),Disk 1 write throughput (MB per second),Disk 1 read ops (operations per second),Disk 1 write ops (operations per second),Disk 2 size (In GB),Disk 2 read throughput (MB per second),Disk 2 write throughput (MB per second),Disk 2 read ops (operations per second),Disk 2 write ops (operations per second)
+VM001.corp.contoso.com,172.21.12.20,2,4096,Microsoft Windows Server 2016 (64-bit),2016,x64,Virtual,Hyper-V,60,45,1,50,20,BIOS,1,64,128,95,95,95,101,128,95,95,95,101
+VM0022.corp.contoso.com,172.21.12.21,1,4096,Microsoft Windows Server 2012 (64-bit),2012,x64,Virtual,Vmware,50,50,1,50,20,UEFI,2,64,128,95,95,95,101,128,95,95,95,101
+VM0023.corp.contoso.com,172.21.12.22,2,8192,Microsoft Windows Server 2019 (64-bit),2019,x64,Virtual,Hyper-V,50,50,1,50,20,UEFI,2,64,128,95,95,95,101,128,95,95,95,101
+VM0024.corp.contoso.com,172.21.12.23,2,16384,Microsoft Windows Server 2016 (64-bit),2016,x64,Virtual,Vmware,50,45,2,50,20,BIOS,2,64,128,95,95,95,101,128,95,95,95,101
+VM0025.corp.contoso.com,172.21.12.24,1,8192,Microsoft Windows Server 2022 (64-bit),2022,x64,Virtual,Hyper-V,50,50,1,50,20,BIOS,2,64,128,95,95,95,101,128,95,95,95,101
+VM006.corp.contoso.com,172.21.12.25,1,4096,Microsoft Windows Server 2016 (64-bit),2016,x64,Virtual,Vmware,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM007.corp.contoso.com,172.21.12.26,2,4096,Microsoft Windows Server 2016 (64-bit),2016,x64,Virtual,Hyper-V,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM008.corp.contoso.com,172.21.12.27,1,4096,Microsoft Windows Server 2016 (64-bit),2016,x64,Virtual,Vmware,50,50,1,50,20,UEFI,1,100,128,95,95,95,101,,,,,
+VM009.corp.contoso.com,172.21.12.28,2,4096,Red Hat Enterprise Linux 7.1,7.1,x64,Virtual,Hyper-V,50,50,1,50,20,BIOS,1,100,128,95,95,95,101,,,,,
+VM010.corp.contoso.com,172.21.12.29,1,4096,Oracle Linux 7,7.2,x64,Virtual,Vmware,50,50,1,50,20,BIOS,1,90,128,95,95,95,101,,,,,
+VM002.corp.contoso.com,172.21.12.30,2,4096,Oracle Linux 7,7.2,x64,Virtual,Hyper-V,50,50,1,50,20,BIOS,1,64,128,95,95,95,101,,,,,
+VM003.corp.contoso.com,172.21.12.31,1,4096,Oracle Linux 7,7.2,x64,Virtual,Vmware,50,50,1,50,20,BIOS,1,64,128,95,95,95,101,,,,,
+VM004.corp.contoso.com,172.21.12.32,1,4096,Oracle Linux 7,7.2,x64,Virtual,Hyper-V,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM005.corp.contoso.com,172.21.12.33,2,4096,Oracle Linux 7,7.2,x64,Physical,,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM011.corp.contoso.com,172.21.12.34,2,4096,Oracle Linux 7,7.2,x64,Virtual,Hyper-V,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM012.corp.contoso.com,172.21.12.35,1,4096,Oracle Linux 7,7.2,x64,Physical,,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM013.corp.contoso.com,172.21.12.36,2,4096,Oracle Linux 7,7.2,x64,Virtual,Hyper-V,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM014.corp.contoso.com,172.21.12.37,2,4096,Oracle Linux 7,7.2,x64,Physical,,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM015.corp.contoso.com,172.21.12.38,1,4096,Oracle Linux 7,7.2,x64,Virtual,Hyper-V,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM016.corp.contoso.com,172.21.12.39,1,4096,Oracle Linux 7,7.2,x64,Physical,,50,50,1,50,20,BIOS,1,64,128,95,95,95,101,,,,,
+VM017.corp.contoso.com,172.21.12.40,2,4096,Oracle Linux 7,7.2,x64,Virtual,Hyper-V,50,50,1,50,20,BIOS,1,64,128,95,95,95,101,,,,,
+VM018.corp.contoso.com,172.21.12.41,1,4096,Oracle Linux 7,7.2,x64,Physical,,50,50,1,50,20,BIOS,1,80,128,95,95,95,101,,,,,
+VM019.corp.contoso.com,172.21.12.42,2,4096,Oracle Linux 7,7.2,x64,Virtual,Hyper-V,50,50,2,50,20,BIOS,1,64,128,95,95,95,101,,,,,
+VM020.corp.contoso.com,172.21.12.43,1,4096,Oracle Linux 7,7.2,x64,Physical,,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM021.corp.contoso.com,172.21.12.44,1,4096,Oracle Linux 7,7.2,x64,Virtual,Hyper-V,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM026.corp.contoso.com,172.21.12.45,1,4096,Oracle Linux 7,7.2,x64,Physical,,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM027.corp.contoso.com,172.21.12.46,2,4096,Oracle Linux 7,7.2,x64,Virtual,Hyper-V,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM028.corp.contoso.com,172.21.12.47,1,4096,Oracle Linux 7,7.2,x64,Virtual,Vmware,50,50,1,50,20,BIOS,1,64,128,95,95,95,101,,,,,
+VM029.corp.contoso.com,172.21.12.48,2,4096,Red Hat Enterprise Linux 7.1,7.1,x64,Virtual,Hyper-V,50,50,2,50,20,BIOS,1,64,128,95,95,95,101,,,,,
+VM030.corp.contoso.com,172.21.12.49,1,4096,Oracle Linux 7,7.2,x64,Virtual,Vmware,50,50,1,50,20,BIOS,1,64,128,95,95,95,101,,,,,
+VM031.corp.contoso.com,172.21.12.50,2,"8,192",CentOS 9,4,x64,Virtual,Vmware,50,50,2,50,20,UEFI,2,100,256,95,150,150,150,300,150,100,150,100
+VM032.corp.contoso.com,172.21.12.51,1,4096,Oracle Linux 7,7.2,x64,Virtual,Vmware,50,50,1,50,20,BIOS,1,64,128,95,95,95,101,,,,,
+VM033.corp.contoso.com,172.21.12.52,1,4096,Windows Server 2008 R2,2008,x64,Virtual,Hyper-V,50,45,2,50,20,BIOS,1,64,128,95,95,95,101,,,,,
+VM034.corp.contoso.com,172.21.12.53,1,4096,Microsoft Windows Server 2012 (64-bit),2012,x64,Virtual,Vmware,50,50,1,50,20,UEFI,2,64,128,95,95,95,101,128,95,95,95,101
+VM035.corp.contoso.com,172.21.12.54,2,8192,Microsoft Windows Server 2019 (64-bit),2019,x64,Virtual,Hyper-V,50,50,2,50,20,UEFI,2,64,128,95,95,95,101,128,95,95,95,101
+VM036.corp.contoso.com,172.21.12.55,2,16384,Microsoft Windows Server 2016 (64-bit),2016,x64,Physical,,50,50,2,50,20,BIOS,2,64,128,95,95,95,101,128,95,95,95,101
+VM037.corp.contoso.com,172.21.12.56,4,16384,Microsoft Windows Server 2022 (64-bit),2022,x64,Physical,,50,50,2,50,20,BIOS,2,64,128,95,95,95,101,128,95,95,95,101
+VM038.corp.contoso.com,172.21.12.57,2,4096,Windows Server 2008 R2,2008,x64,Physical,,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM039.corp.contoso.com,172.21.12.58,1,4096,Microsoft Windows Server 2016 (64-bit),2016,x64,Physical,,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
+VM040.corp.contoso.com,172.21.12.59,2,4097,Microsoft Windows Server 2016 (64-bit),2016,x64,Physical,,50,50,1,50,20,UEFI,1,64,128,95,95,95,101,,,,,
